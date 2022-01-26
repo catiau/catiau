@@ -1,4 +1,17 @@
-### Helloo! I'm Cauan
+ <h2>Hello there! I'm Cauan Teixeira</h2> 
+ 
+ <p>
+  <em> I'm a Jr. Developer at Grupo Tecnoagil.
+ </p>
+  
+  <p>
+  Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period.
+  </p>
+  
+  <p>
+    Volunteer in the maintenance and creation of the campus site at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>.
+  </p> 
+  
 
 <div align="center">
   <a href="https://github.com/catiau">
