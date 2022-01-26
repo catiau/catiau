@@ -49,7 +49,7 @@
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a target="blank" href="https://www.instagram.com/cauantl/">
+  <a target="_blank" href="https://www.instagram.com/cauantl/">
     <img src="https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
