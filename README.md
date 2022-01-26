@@ -1,7 +1,7 @@
  <h2>Hello there! I'm Cauan Teixeira</h2> 
  
  <p>
-  <em> I'm a Jr. Developer at Grupo Tecnoagil.
+  <em> I'm working at Grupo Tecnoagil.
  </p>
   
   <p>
@@ -9,7 +9,7 @@
   </p>
   
   <p>
-    Volunteer in the maintenance and creation of the campus site at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>.
+    Volunteer in the maintenance and creation of the campus site at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>. (Oct 2021 - Currently)
   </p> 
   
 
