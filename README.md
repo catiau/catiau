@@ -1,15 +1,15 @@
  <h2>Hello there! I'm Cauan Teixeira</h2> 
  
  <p>
-  <em> I'm working at Grupo Tecnoagil.
+  <em> I'm working at Grupo Tecnoagil. (Oct 2021 - Currently)
  </p>
   
   <p>
-  Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period.
+  Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period ( Prevision of conclusion - 2024)
   </p>
   
   <p>
-    Volunteer in the maintenance and creation of the campus site at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>. (Oct 2021 - Currently)
+    Volunteer in the maintenance and creation of the campus site at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>. (Nov 2021 - Currently)
   </p> 
   
  <br>
