@@ -26,12 +26,33 @@
 <br>
 
 <p align="center">
+<a href="https://github.com/catiau"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+ <a href="https://github.com/catiau"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+   <br>
+<p align="center">
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=catiau&row=1&column=6&theme=darkhub" />
+  <br>
+</p>
+
+<p align="center">
+ Connect with me 
  
- <a href="https://github.com/catiau">
- </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&langs_count=7&theme=dark"/>
-   
- </p>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+ 
   
 
