@@ -25,16 +25,19 @@
 </div>
 <br>
 
-<p align="center">
-<a href="https://github.com/catiau"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
- <a href="https://github.com/catiau"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+<div align="center">
+ 
+  <a href="https://github.com/catiau">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&langs_count=7&theme=tokyonight"/>
+   
+</div>
+ 
    <br>
+ 
 <p align="center">
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=catiau&row=1&column=6&theme=darkhub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=catiau&row=1&column=6&theme=tokyonight" />
   <br>
 </p>
 
