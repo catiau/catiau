@@ -30,7 +30,7 @@
   <a href="https://github.com/catiau">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&langs_count=7&theme=tokyonight"/>
-   
+ </a>
 </div>
  
    <br>
@@ -42,6 +42,9 @@
 </p>
 
 <br>
+ <p align="center">
+ Connect with me
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cauan-teixeira-2480a2210"/>
