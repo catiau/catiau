@@ -9,7 +9,7 @@
   </p>
   
   <p>
-    Volunteer in the maintenance and creation of the campus site at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>. (Nov 2021 - Currently)
+    Volunteer in the maintenance and creation of the campus page for public events, works at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>. (Nov 2021 - Currently)
   </p> 
   
  <br>
