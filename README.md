@@ -5,7 +5,7 @@
  </p>
   
   <p>
-  Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period ( Prevision of conclusion - Dec 2024)
+  Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period (Prevision of conclusion - Dec 2024)
   </p>
   
   <p>
