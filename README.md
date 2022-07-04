@@ -1,7 +1,7 @@
  <h2>Hello there! I'm Cauan Teixeira</h2> 
  
  <p>
-  <em> I'm working at U4Crypto as Support Analyst(Jun 2022 - Currently)
+  <em> I'm working at U4Crypto as Support Analyst (Jun 2022 - Currently)
  </p>
   
   <p>
