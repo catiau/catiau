@@ -27,14 +27,11 @@
 
 <div align="center">
  
-  <a href="https://github.com/catiau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&show_icons=true&theme=tokyonight"/>
- </a>
- </div>
+  <a href="https://github.com/catiau"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/catiau"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&show_icons=true&theme=tokyonight"/></a>
  
-   <br>
+ </div>
+<br>
  
 <p align="center">
   <br>
@@ -51,7 +48,7 @@
   <a href="https://www.linkedin.com/in/cauan-teixeira-2480a2210"/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+</p>
  
   
 
