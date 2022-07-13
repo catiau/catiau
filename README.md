@@ -27,8 +27,8 @@
 
 <p align="center">
  
-  <a href="https://github.com/catiau"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/catiau"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&show_icons=true&theme=tokyonight"/></a>
+  <a href="https://github.com/catiau"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/></a>
+  <a href="https://github.com/catiau"><img height="180em" width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&show_icons=true&hide_border=true&theme=tokyonight"/></a>
 </p>
 
 <br>
