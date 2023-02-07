@@ -39,7 +39,7 @@
           <a href="https://github.com/catiau"><img height="180rem" src="https://github-readme-stats.vercel.app/api?username=catiau&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
           </a>
           <td>
-           <a href="https://github.com/catiau"><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&show_icons=true&hide_border=true&langs_count=7&theme=dark"/>
+           <a href="https://github.com/catiau"><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catiau&layout=compact&show_icons=true&hide_border=true&langs_count=7&theme=radical"/>
            </a>
     </tr>
     </table>
