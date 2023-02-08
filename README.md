@@ -4,7 +4,7 @@
  <em> 
  <span> I'm working at U4Crypto as Support Analyst (Jun 2022 - Currently)</span>
  <br>
- <span>Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period (Prevision of conclusion - Dec 2024)</span>
+ <span>Information Systems student at <a href="https://portal.ifba.edu.br/conquista">IFBA</a> - Currently in the 3° period (Prevision of conclusion - 2025)</span>
 
  
 <br>
