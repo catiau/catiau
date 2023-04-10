@@ -1,4 +1,4 @@
-<h1>Hello there! I am Cauan</h1>
+<h1>Hello there!</h1>
  
 <p><em>
      I'm curious, easygoing and resilient person. I'm always looking for new challenges.
