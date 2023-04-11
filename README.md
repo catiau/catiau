@@ -1,11 +1,11 @@
 <h1>Hello there!</h1>
  
-<p><em>
-     I'm curious, easygoing and resilient person. I'm always looking for new challenges.
- </p>
- <p>
-     Currently in second year of college at at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>, major degree in Information Systems (Prevision of conclusion - 2025)
- </p></em>
+<h3><em>
+     I'm curious, easygoing and resilient person. Always looking for new challenges 😁
+ </h3>
+ <h4>
+     Currently in second year of college at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>, major degree in Information Systems (Prevision of conclusion - 2025)
+ </h4></em>
 
 <br>
 
