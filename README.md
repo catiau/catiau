@@ -4,7 +4,7 @@
      I'm curious, easygoing and resilient person. Always looking for new challenges 😁
  </h3>
  <h4>
-     Currently in second year of college at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>, major degree in Information Systems (Prevision of conclusion - 2025)
+     Currently in second year of college at <a href="https://portal.ifba.edu.br/conquista">IFBA</a>, major degree in Information Systems (Prevision of conclusion - 2024)
  </h4></em>
 
 <br>
